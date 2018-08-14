@@ -1,9 +1,0 @@
-# main menu navigation
-menu:
-  首页: /
-  关于: /about
-  归档: /archives
-  标签: /tags
-
-# Miscelaneous
-favicon: /favicon.ico
